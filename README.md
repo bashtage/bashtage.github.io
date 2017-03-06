@@ -10,3 +10,8 @@
 
 * [Documentation](http://bashtage.github.io/ng-numpy-randomstate/doc/build/html/index.html)
 * [Project Site](https://github.com/bashtage/ng-numpy-randomstate)
+
+## Linear Models (linearmodels)
+
+* [Documentation](http://bashtage.github.io/linearmodels/doc/index.html)
+* [Project Site](https://github.com/bashtage/linearmodels)
