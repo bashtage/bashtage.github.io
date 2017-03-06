@@ -13,5 +13,5 @@
 
 ## Linear Models (linearmodels)
 
-* [Documentation](http://bashtage.github.io/linearmodels/doc/index.html)
+* [Documentation](http://bashtage.github.io/linearmodels/docs/index.html)
 * [Project Site](https://github.com/bashtage/linearmodels)
