@@ -19,6 +19,6 @@ Instrumental Variable and Linear Panel Models in Python
 
 Drop-in replacement for NumPy's RandomState supporting more advanced generators
 
-* [Documentation](http://bashtage.github.io/ng-numpy-randomstate/doc/build/html/index.html)
+* [Documentation](http://bashtage.github.io/ng-numpy-randomstate/doc/index.html)
 * [Project Site](https://github.com/bashtage/ng-numpy-randomstate)
 
