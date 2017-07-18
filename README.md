@@ -4,7 +4,7 @@
 
 Autoregressive Conditional Heteroskedasticity (ARCH) models in Python
 
-* [Documentation](http://bashtage.github.io/arch/doc/build/html/index.html)
+* [Documentation](http://bashtage.github.io/arch/index.html)
 * [Documentation (rtd)](http://arch.readthedocs.io/en/latest/)
 * [Project Site](https://github.com/bashtage/arch)
 
