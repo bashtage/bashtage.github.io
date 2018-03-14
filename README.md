@@ -15,6 +15,14 @@ Instrumental Variable and Linear Panel Models in Python
 * [Documentation](http://bashtage.github.io/linearmodels/doc/index.html)
 * [Project Site](https://github.com/bashtage/linearmodels)
 
+## RandomGen (randomgen)
+
+Replacement for NumPy's RandomState using a plug-in framework that separates
+complex random variate generatrion from basic random number generation
+
+* [Documentation](http://bashtage.github.io/randomgen/doc/index.html)
+* [Project Site](https://github.com/bashtage/randomgen)
+
 ## ng-numpy-randomstate (randomstate)
 
 Drop-in replacement for NumPy's RandomState supporting more advanced generators
