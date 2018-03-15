@@ -12,7 +12,8 @@ Autoregressive Conditional Heteroskedasticity (ARCH) models in Python
 
 Instrumental Variable and Linear Panel Models in Python
 
-* [Documentation](http://bashtage.github.io/linearmodels/doc/index.html)
+* [Documentation (Stable)](http://bashtage.github.io/linearmodels/index.html)
+* [Documentation (Latest)](http://bashtage.github.io/linearmodels/doc/index.html)
 * [Project Site](https://github.com/bashtage/linearmodels)
 
 ## RandomGen (randomgen)
@@ -20,7 +21,8 @@ Instrumental Variable and Linear Panel Models in Python
 Replacement for NumPy's RandomState using a plug-in framework that separates
 complex random variate generatrion from basic random number generation
 
-* [Documentation](http://bashtage.github.io/randomgen/doc/index.html)
+* [Documentation (Stable)](http://bashtage.github.io/randomgen/index.html)
+* [Documentation (Latest)](http://bashtage.github.io/randomgen/doc/index.html)
 * [Project Site](https://github.com/bashtage/randomgen)
 
 ## ng-numpy-randomstate (randomstate)
