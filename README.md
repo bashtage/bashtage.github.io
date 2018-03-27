@@ -22,10 +22,12 @@ Replacement for NumPy's RandomState using a plug-in framework that separates
 complex random variate generatrion from basic random number generation
 
 * [Documentation (Stable)](http://bashtage.github.io/randomgen/index.html)
-* [Documentation (Latest)](http://bashtage.github.io/randomgen/doc/index.html)
+* [Documentation (Latest)](http://bashtage.github.io/randomgen/devel/index.html)
 * [Project Site](https://github.com/bashtage/randomgen)
 
 ## ng-numpy-randomstate (randomstate)
+
+**This project has been mothballed. Use [randomgen](https://github.com/bashtage/randomgen)**
 
 Drop-in replacement for NumPy's RandomState supporting more advanced generators
 
