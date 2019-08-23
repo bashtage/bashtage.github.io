@@ -16,7 +16,19 @@ Instrumental Variable and Linear Panel Models in Python
 * [Documentation (Latest)](http://bashtage.github.io/linearmodels/doc/index.html)
 * [Project Site](https://github.com/bashtage/linearmodels)
 
+## Material for Sphinx (sphinx-material)
+
+A Material-design theme for Sphinx.
+
+* [Documentation (Stable)](http://bashtage.github.io/sphinx-material/index.html)
+* [Documentation (Latest)](http://bashtage.github.io/sphinx-material/devel/index.html)
+* [Project Site](https://github.com/bashtage/sphinx-material)
+
 ## RandomGen (randomgen)
+
+**This project has been substantially merged into NumPy 1.17.**
+**There are some features remaining that have not been integrated, especially**
+**additional bit generators (Psuedo RNGs).**
 
 Replacement for NumPy's RandomState using a plug-in framework that separates
 complex random variate generatrion from basic random number generation
@@ -33,4 +45,3 @@ Drop-in replacement for NumPy's RandomState supporting more advanced generators
 
 * [Documentation](http://bashtage.github.io/ng-numpy-randomstate/doc/index.html)
 * [Project Site](https://github.com/bashtage/ng-numpy-randomstate)
-
