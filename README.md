@@ -18,7 +18,7 @@ Instrumental Variable and Linear Panel Models in Python
 
 ## Material for Sphinx (sphinx-material)
 
-A Material-design theme for Sphinx.
+A Material-design theme for Sphinx. This is not actively maintained. I recommend using [sphinx-immaterial](https://sphinx-immaterial.readthedocs.io/).
 
 * [Documentation (Stable)](https://bashtage.github.io/sphinx-material/index.html)
 * [Documentation (Latest)](https://bashtage.github.io/sphinx-material/devel/index.html)
